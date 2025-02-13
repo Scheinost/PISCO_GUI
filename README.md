@@ -1,4 +1,4 @@
-                                          PISCO - Photomicrography Interface System of Capture and Operation
+                        PISCO - Photomicrography Interface System of Capture and Operation
 
 Download Instructions
 
@@ -18,4 +18,4 @@ Email: asc021@alumnos.ucn.cl or ascheinostc@gmail.com
 
 Citation
 If you use PISCO in your research, please cite:
-<work in progress>
+<work in progress...
