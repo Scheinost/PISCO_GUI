@@ -17,7 +17,7 @@ All parts must have the same base name (PISCO.part1.rar, PISCO.part2.rar, PISCO.
 Extract the files:
 
 Select PISCO.part1.rar and extract it using WinRAR or similar software
-The other parts will be automatically included in the extraction
+The other parts will be automatically included in the extraction.
 
 
 Run the application:
