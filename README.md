@@ -18,7 +18,6 @@ Extract the files:
 
 Select PISCO.part1.rar and extract it using WinRAR or similar software
 The other parts will be automatically included in the extraction
-If you don't have WinRAR installed, you can download it from www.win-rar.com
 
 
 Run the application:
