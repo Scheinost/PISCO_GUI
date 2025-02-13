@@ -1,30 +1,14 @@
-PISCO - Photomicrography Interface System of Capture and Operation
+                                          PISCO - Photomicrography Interface System of Capture and Operation
+
 Download Instructions
-The PISCO software is distributed in three parts due to file size limitations:
+
+The PISCO software is distributed in three parts in the PISCO interface folder due to file size limitations:
 
 PISCO.part1.rar
 PISCO.part2.rar
 PISCO.part3.rar
 
-Installation Steps:
-
-Download all three parts of the RAR file:
-
-Make sure to download all three parts into the same directory
-All parts must have the same base name (PISCO.part1.rar, PISCO.part2.rar, PISCO.part3.rar)
-
-
-Extract the files:
-
-Select PISCO.part1.rar and extract it using WinRAR or similar software
-The other parts will be automatically included in the extraction.
-
-
-Run the application:
-
-Navigate to the extracted folder
-Locate and run PISCO.exe
-No additional installation is required
+Also the python code is available in the folder Python Code
 
 Support
 For questions or issues, please contact:
